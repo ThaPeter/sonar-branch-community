@@ -8,7 +8,7 @@ script: mvn clean verify checkstyle:check
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
-  file: "**/*.*"
+  file: "**/*.jar"
   file_glob: true
   skip_cleanup: true
   on:
