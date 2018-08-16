@@ -1,5 +1,5 @@
 # Branch Plugin for SonarQube Community Edition
-[![Build Status](https://travis-ci.org/uknickwilliams/sonar-branch-community.svg?branch=master)]https://travis-ci.org/uknickwilliams/sonar-branch-community)
+[![Build Status](https://travis-ci.org/uknickwilliams/sonar-branch-community.svg?branch=master)](https://travis-ci.org/uknickwilliams/sonar-branch-community)
 
 ## Description / Features
 
