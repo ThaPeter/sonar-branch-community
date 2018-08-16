@@ -19,3 +19,5 @@ Drop plugin jar file in SonarQube `/extensions/plugins` directory and restart th
 | -------------  | -------------------- |
 | 1.x.x          | 6.7+, 7.0            |
 | 2.0.0          | 7.1                  |
+
+Changed
